@@ -1,0 +1,5 @@
+print("h - help")
+print("i - inserisci riga di testo")
+print("c - cancella il buffer")
+print("p - stampa buffer")
+print("q - esci")

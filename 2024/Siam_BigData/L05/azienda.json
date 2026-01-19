@@ -1,0 +1,8 @@
+{
+"azienda":"pippo srl",
+"impiegati":[
+    {"matricola":"123", "nome":"mario rossi"}  ,
+    {"matricola":"124", "nome":"luigi bianchi"},
+    {"matricola":"125", "nome":"anna verdi"}
+    ]
+}

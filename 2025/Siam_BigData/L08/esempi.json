@@ -1,0 +1,27 @@
+{
+    "nome": "Mario",
+    "cognome": "Rossi",
+    "data" : "01-01-2000"
+}
+
+
+//elenco di persone
+
+[
+    {
+    "nome": "Mario",
+    "cognome": "Rossi",
+    "data" : "01-01-2000"
+    },
+    {
+    "nome": "Luigi",
+    "cognome": "Bianchi",
+    "data" : "01-03-2001"
+    }
+]
+
+// annidati
+{
+    "nome": "Mario Rossi",
+    "materie" : [ {"cod": "python"}, {"cod": "math"}, {"cod": "eng"} ]
+}
