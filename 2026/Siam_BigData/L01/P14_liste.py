@@ -1,3 +1,5 @@
+#P14_liste.py
+
 numeri = [10,20,30,45,56,67]
 nomi = ['mario', 'luigi', 'anna']
 mag = ['mele', 100, 1.98, 'pere', 55, 2.54]
