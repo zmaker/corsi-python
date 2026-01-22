@@ -1,0 +1,51 @@
+order_id,customer,amount,date,_country_
+1001,paolo rossi, 120.50 ,2024-01-05, italy
+1002,Luca Bianchi,-30,05/01/2024,IT
+1003,MARIA VERDI,89.99,2024/01/06,Italia
+1004, anna neri ,45,2024-1-7, it
+1005,Giovanni Russo,abc,07-01-2024,ITALY
+1006,Paolo Rossi,150.00,2024-01-08,Italy
+1007,luca bianchi, 75,08/01/2024,italia
+1008,Mario Gialli,200,2024.01.09,IT
+1009,,99.99,2024-01-10,Italy
+1010,Francesca Blu,0,10/01/2024,italy
+1011,Paolo rossi,35.5,2024-01-11,IT
+1012,LUCIA ROSSI,80,11-01-2024,Italia
+1013,Marco Neri, 120 ,2024/01/12, it
+1014,anna neri,60,2024-01-13,ITALIA
+1015,Giorgio Rosa,-15,13/01/2024,Italy
+1016,Elena Viola,95.00,2024-01-14,IT
+1017,Paolo  Rossi,110,14/01/2024,italy
+1018,Mario Gialli,100.00,2024-01-15,Italia
+1019,Chiara Marrone, ,15-01-2024,IT
+1020,Luca Bianchi,70,2024/01/16,Italy
+1021,Franco Nero,55.5,2024-1-17,it
+1022,Anna Neri,65,17/01/2024,ITALY
+1023,Giovanni Russo,130,2024.01.18,Italia
+1024,Maria Verdi,140.00,18-01-2024,IT
+1025,paolo rossi,90,2024-01-19,italia
+1026,LUCA BIANCHI,85,19/01/2024,Italy
+1027,Elena viola,75,2024/01/20,IT
+1028,Marco Neri,abc,20-01-2024,Italia
+1029,Giorgio Rosa,115,2024-01-21,ITALY
+1030,Chiara Marrone,105.00,21/01/2024,it
+1031,Mario Gialli,95,2024.01.22,Italy
+1032,Anna Neri,60,22-01-2024,Italia
+1033,Paolo Rossi,200,2024-01-23,IT
+1034,Luca bianchi,-5,23/01/2024,italy
+1035,Maria Verdi,150,2024/01/24,ITALIA
+1036,Francesca Blu,80.0,24-01-2024,IT
+1037,Giovanni Russo,100,2024-01-25,Italy
+1038,Elena Viola, ,25/01/2024,italia
+1039,Marco Neri,90,2024.01.26,it
+1040,Giorgio Rosa,110,26-01-2024,ITALY
+1041,Chiara Marrone,130,2024-01-27,Italy
+1042,Mario Gialli,70,27/01/2024,IT
+1043,Anna neri,85,2024/01/28,Italia
+1044,Paolo Rossi,95,28-01-2024,italy
+1045,Luca Bianchi,120.00,2024-01-29,ITALIA
+1046,Maria Verdi,0,29/01/2024,IT
+1047,Giovanni Russo,160,2024/01/30,Italy
+1048,Elena Viola,140,30-01-2024,italia
+1049,Marco Neri,110,2024-01-31,it
+1050,Giorgio Rosa,abc,31/01/2024,ITALY
