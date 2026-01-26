@@ -1,0 +1,1 @@
+reader = csv.DictReader(fin)
