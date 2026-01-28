@@ -36,6 +36,12 @@ with open("dati_mailing_list.csv", newline="") as fin, \
     #scrivo le intestazioni del file
     writer.writeheader()
 
+    #calcolo l'eta media 
+    eta_media = mylib.getEtaMedia("dati_mailing_list.csv")
+
+    #variabile che tiene traccia della mail alla riga precedente
+    prev_mail = ""
+
     #scorro le righe del file csv
     for row in reader:
         #print(row)
@@ -53,9 +59,17 @@ with open("dati_mailing_list.csv", newline="") as fin, \
             #elimino la riga con email non valida
             print(row["email"], ": EMAIL KO")
             continue
+        if row["email"] == prev_mail:
+            print(row["email"], ": EMAIL DOPPIA")
+            continue
 
         mylib.renameCol(row, "Gender", "genere")
+
         mylib.renameCol(row, "Age", "eta")
+        val = row["eta"]
+        if not val.isdigit():
+            print(row["email"], ": ETA MEDIA ", eta_media)
+            row["eta"] = eta_media
         
         mylib.renameCol(row, "_CREDIT", "credito")
         #trasformo il campo in float
@@ -66,3 +80,6 @@ with open("dati_mailing_list.csv", newline="") as fin, \
 
         #scrivo la riga nel file di uscita
         writer.writerow(row)
+
+        #salvo la mail attuale per la prossima iterazione
+        prev_mail = row["email"]
