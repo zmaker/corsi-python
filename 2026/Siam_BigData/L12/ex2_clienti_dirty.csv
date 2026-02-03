@@ -1,0 +1,51 @@
+Customer_ID,First_Name,Last_Name,Email,Age,Country
+1, stefano, conti ,stefano.conti@example.com,36,Italy
+2, stefano , gallo  ,stefano@gallo,50,italy
+3, ROBERTO ,  ferrari,roberto@ferrari,,Spain
+4,SIMONE,GALLO,simone.gallo@example.com,59,Germany
+5,anna, de luca  ,anna.de luca@example.com,37,italy
+6,  FRANCESCA  ,bianchi ,francesca.bianchi@example.com,34,Italy
+7, marco , esposito ,marco.esposito@example.com,66,FRANCE
+8,  MARCO ,  rossi ,marco.rossi@example.com,41,GERMANY
+9, luca ,  RUSSO,luca.russo@example.com,NaN,italy
+10,STEFANO,greco ,stefano.greco@example.com,52,Germany
+11, MARCO ,esposito  ,marco@esposito,42,germany
+12,alice , NERI ,alice.neri@example.com,58,Spain
+13,chiara ,  NERI,chiara.neri@example.com,41,UK
+14, CHIARA  ,ROSSI,chiara.rossi@example.com,35,UK
+15,  paolo  , rossi ,paolo@rossi,22,France
+16,chiara ,gallo  ,chiara.gallo@example.com,62,uk
+17,  ANNA ,  CONTI  ,anna.conti@example.com,70,france
+18, davide ,DE LUCA,davide@de luca,66,Germany
+19, francesca  , GALLO ,francesca.gallo@example.com,67,Italy
+20,  marco, fontana,marco.fontana@example.com,,ITALY
+21,  elena,  RUSSO ,,39,France
+22,DAVIDE,  GRECO  ,davide.greco@example.com,58,UK
+23,  ELENA  , gallo  ,elena.gallo@example.com,41,ITALY
+24, simone  , FONTANA  ,simone.fontana@example.com,64,spain
+25,  ANNA  ,NERI ,anna.neri@example.com,37,UK
+26,PAOLO,  fontana,paolo.fontana@example.com,55,SPAIN
+27,DAVIDE  ,ROSSI  ,davide.rossi@example.com,,SPAIN
+28,anna  , neri  ,anna.neri@example.com,35,germany
+29,  ANNA  ,  de luca ,,69,Italy
+30,  roberto,GRECO  ,roberto.greco@example.com,34,GERMANY
+31,STEFANO ,  bianchi  ,stefano.bianchi@example.com,,Italy
+32,  DAVIDE,conti  ,davide.conti@example.com,58,FRANCE
+33, chiara, ROSSI,,31,germany
+34,  ELENA, neri,elena.neri@example.com,NaN,spain
+35,  ELENA,FONTANA,elena.fontana@example.com,56,ITALY
+36, DAVIDE, FERRARI  ,,44,SPAIN
+37,  davide  ,rossi,davide.rossi@example.com,54,UK
+38,  GIOVANNI,  ROMANO  ,giovanni.romano@example.com,40,UK
+39, ANNA  , ROSSI  ,anna@rossi,43,italy
+40, stefano , de luca ,stefano.de luca@example.com,34,italy
+41,SIMONE,gallo,simone.gallo@example.com,29,italy
+42,  davide  ,  MARINO ,davide.marino@example.com,59,UK
+43,chiara  ,  ROSSI  ,chiara.rossi@example.com,32,ITALY
+44,  FRANCESCA, VERDI ,francesca@verdi,NaN,France
+45,  CHIARA ,  neri,chiara@neri,,Spain
+46,  luca ,  BIANCHI  ,luca.bianchi@example.com,51,France
+47,MARCO ,bruno  ,marco.bruno@example.com,36,France
+48,  francesca  , neri  ,francesca.neri@example.com,57,germany
+49,  anna  ,  GRECO  ,,59,UK
+50,  davide ,verdi,davide@verdi,66,spain
