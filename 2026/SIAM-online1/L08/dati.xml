@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<magazzino>
+    <indirizzo tipo="residenza" id=123>
+        <nome>Mario</nome>
+        <via>Via Roma, 12</via>
+        <test/>
+    </indirizzo>
+</magazzino>
