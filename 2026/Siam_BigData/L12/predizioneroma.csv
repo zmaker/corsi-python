@@ -1,0 +1,11 @@
+House_ID,Neighborhood,Property_type,Rooms,Surface,Elevator,Floor_type,Floor_number,previsione
+new_001,Trastevere,Villa,2,60,0,Upper,1,1135.9686930057317
+new_002,Infernetto,Flat,2,50,1,Ground floor,0,480.9646121442722
+new_003,Castelli Romani,Flat,3,80,1,Upper,2,738.7895789971636
+new_004,Termini,Flat,4,90,1,Upper,5,1314.6817905992516
+new_005,Montagnola,Flat,3,80,1,Upper,2,970.1494110990711
+new_006,Montagnola,Flat,2,55,0,Ground floor,0,672.6327758950994
+new_007,Monti,Flat,3,80,1,Upper,2,1326.7655138949556
+new_008,Aventino,Penthouse,3,90,1,Upper,9,1583.6890622632795
+new_009,Piazza Navona,Flat,4,145,0,Upper,3,2315.5780440521585
+new_010,EUR,Flat,3,100,1,Upper,9,1253.910116500081
