@@ -1,0 +1,10 @@
+{
+    "nome":"luigi",
+    "cognome":"rossi",
+    "anno":1998,
+    "hobby":["chitarra", "cucina", "funky"],
+    "figli":[
+            {"nome":"Anna", "anno":"2010"},            
+            {"nome":"Marco", "anno":"2012"}
+        ]
+}

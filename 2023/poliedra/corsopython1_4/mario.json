@@ -1,0 +1,10 @@
+{
+    "nome":"Mario",
+    "cognome":"Rossi",
+    "anno":1989,
+    "hobby":["bici", "musica", "pittura"],
+    "figli":[
+        {"nome":"Anna", "anno":2000},
+        {"nome":"Marco", "anno":2005}
+        ]
+}

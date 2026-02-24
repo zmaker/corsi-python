@@ -1,0 +1,5 @@
+print("hello python")
+print('ciao!!!')
+print("ciao 'Paolo' ")
+print("ciao \"Paolo\" ")
+print("il numero di mele è", 12, " num")
