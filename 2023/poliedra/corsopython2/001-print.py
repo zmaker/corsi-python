@@ -1,0 +1,5 @@
+print("ciao")
+print('ciao2')
+print("in tasca", "ho", 23, "euro" , 10+2)
+print("indendevo dire 'ieri' non oggi")
+print("indendevo dire \"ieri\" non oggi")

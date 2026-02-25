@@ -1,0 +1,3 @@
+dato1
+temp= 12
+hum=100%
