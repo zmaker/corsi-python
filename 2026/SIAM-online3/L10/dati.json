@@ -1,0 +1,6 @@
+{
+    "nome":"Mario",
+    "cognome":"Rossi",
+    "cap":12345,
+    "materie":["math", "ita", "eng"]
+}
